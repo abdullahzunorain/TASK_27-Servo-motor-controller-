@@ -1,6 +1,6 @@
 ## Task 27: Servo Motor Controller
 
-
+![](servo_motor.jpg)
 
 #### Overview
 This task involves creating a **servo motor controller** that allows the user to move a servo motor to a desired position by entering an angle via a **4x4 keypad**. The current angle and the input prompt will be displayed on a **16x2 LCD**. 
