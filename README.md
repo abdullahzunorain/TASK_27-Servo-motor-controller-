@@ -54,4 +54,3 @@ This task involves creating a **servo motor controller** that allows the user to
 3. **Reset Circuit Study**
 4. **USB to TTL Circuit Study**
 
----
